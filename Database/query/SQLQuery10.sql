@@ -1,0 +1,5 @@
+SELECT TOP (1000) [SemesterID]
+      ,[SemesterName]
+      ,[CreatedDate]
+      ,[IsAct]
+  FROM [LibraryDB].[TblSemester]

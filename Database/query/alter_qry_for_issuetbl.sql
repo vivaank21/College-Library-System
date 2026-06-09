@@ -1,0 +1,7 @@
+USE LibraryDB
+GO
+
+
+ALTER TABLE TblIssueBooks
+ADD FineAmount DECIMAL(10,2) DEFAULT 0;
+GO
