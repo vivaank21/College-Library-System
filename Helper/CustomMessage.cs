@@ -99,7 +99,7 @@ namespace College_Management_System.Helper
 
             Label lblTop = new Label
             {
-                Text = "📊 Expense Manager",
+                Text = "📊 College Library System",
                 Font = new Font("Segoe UI Semibold", 11F, FontStyle.Bold),
                 ForeColor = darkText,
                 AutoSize = true,
